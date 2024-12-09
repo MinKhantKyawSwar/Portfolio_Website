@@ -16,14 +16,14 @@ export const EDUCATION = [
   {
     year: "2023 - Present",
     role: "Higher National Diploma (HND)",
-    company: "Info Myanmar Collage",
+    company: "Info Myanmar College",
     description: `I learn more about MERN stack, while learning data science, programming and visualization of big data in the Collage. I'm developing ecommerce website with react and php, using MySQL database and AI based calculator with handwritten recognition.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   {
     year: "2022 - 2023",
     role: "Higher National Certificate (HNC)",
-    company: "Info Myanmar Collage",
+    company: "Info Myanmar College",
     description: `This is whern I have started deeply exploring computer science and web development, starting with HTML, CSS, JavaScript and Java. I focused on building a strong foundation in front-end development. This journey has ignited my passion for creating functional and visually appealing web applications.`,
     technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
   },
