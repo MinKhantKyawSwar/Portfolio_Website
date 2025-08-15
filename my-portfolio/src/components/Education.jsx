@@ -12,7 +12,7 @@ const Education = () => {
       >
         Education
       </motion.h1>
-      <div dl>
+      <div>
         {EDUCATION.map((education, index) => (
           <div key={index} className="mb-8 flex flex-wrap lg:justify-center">
             <motion.div
