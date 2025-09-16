@@ -17,7 +17,7 @@ applications. Starting from last year, I have worked with a variety of technolog
 export const EDUCATION = [
   {
     year: "2025 - present",
-    role: "B.Sc in Computing",
+    role: "B.Sc (HONS) in Computer Science",
     company: "British United College",
     description: `I am currently learning Advanced Network Security and Artificial Intelligence.`,
   },
